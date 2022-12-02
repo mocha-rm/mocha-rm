@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi!%20Hello!&fontSize=40" />
 
 :hammer: Tools :hammer:
@@ -11,7 +12,5 @@
 :blush: About Me :blush:
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90" />
-
-
+</div>
