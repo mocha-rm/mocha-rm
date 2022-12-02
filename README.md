@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/AbletonLive-000000?style=flat-square&logo=abletonlive&logoColor=white"/>
 
-:computer: kills :computer:
+:computer: Skills :computer:
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=&logoColor=black"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
