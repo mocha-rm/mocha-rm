@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi!%20Hello!&fontSize=40" />
 
-<!--
-**mocha-rm/mocha-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:hammer: Tools :hammer:
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/AbletonLive-000000?style=flat-square&logo=abletonlive&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: kills :computer:
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=&logoColor=black"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+
+:blush: About Me :blush:
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90" />
+
+
