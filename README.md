@@ -11,7 +11,7 @@
 
 :blush: About Me :blush:
   
-<a href="https://velog.io/@mocha-rm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="mailto:blogerhong@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:blogerhong@naver.com"/></a>
+<a href="mailto:blogerhong@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:blogerhong@naver.com"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90" />
 </div>
