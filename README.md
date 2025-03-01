@@ -1,7 +1,5 @@
 [![Hello~, Welcome to J.H Github](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Welcome%20to%20J.H%20Github&title=Hello~)](https://pimp-my-readme-next.vercel.app)
 
-
-
 ---
 
 <table>
