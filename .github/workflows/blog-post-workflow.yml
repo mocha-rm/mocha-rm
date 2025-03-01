@@ -18,6 +18,6 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
-          feed_list: "https://velog.io/@jelog_131/posts/rss"
+          feed_list: "https://velog.io/@jelog_131/posts"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           accept_header: "text/xml"
