@@ -26,4 +26,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security 테스트 환경에서 &quot;인증된 사용자가 없습니다.&quot; 예외 해결하기](https://velog.io/@jelog_131/Spring-Security-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%9D%B8%EC%A6%9D%EB%90%9C-%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%98%88%EC%99%B8-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+- [WebSocket + STOMP 환경에서 발생할 수 있는 문제 및 해결 방법](https://velog.io/@jelog_131/WebSocket-STOMP-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%AC%B8%EC%A0%9C-%EB%B0%8F-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
+- [MongoDB - Insert 시 Authentication 문제 해결하기](https://velog.io/@jelog_131/MongoDB-Insert-%EC%8B%9C-Authentication-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+- [Spring Boot - Redis 데이터 직렬화 및 역직렬화 문제 해결](https://velog.io/@jelog_131/Spring-Boot-Redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A7%81%EB%A0%AC%ED%99%94-%EB%B0%8F-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 <!-- BLOG-POST-LIST:END -->
