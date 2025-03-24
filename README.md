@@ -26,8 +26,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 유용한 명령어 정리](https://velog.io/@jelog_131/Kubernetes-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [TIL - Kubernetes 스터디 내용 정리 2](https://velog.io/@jelog_131/TIL-Kubernetes-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-2)
 - [TIL - Kubernetes 스터디 내용 정리 1](https://velog.io/@jelog_131/TIL-Kubernetes-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-1)
 - [낙관적 락&lpar;Optimistic Lock&rpar; vs 비관적 락&lpar;Pessimistic Lock&rpar; 비교](https://velog.io/@jelog_131/%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BDOptimistic-Lock-vs-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BDPessimistic-Lock-%EB%B9%84%EA%B5%90)
-- [RTMP&lpar;Real-Time Messaging Protocol&rpar;란?](https://velog.io/@jelog_131/RTMPReal-Time-Messaging-Protocol%EB%9E%80)
 <!-- BLOG-POST-LIST:END -->
