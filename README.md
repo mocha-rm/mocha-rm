@@ -26,8 +26,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot JPA에서 LOB필드 조회 시 JpaSystemException 발생 해결](https://velog.io/@jelog_131/Spring-Boot-JPA%EC%97%90%EC%84%9C-LOB%ED%95%84%EB%93%9C-%EC%A1%B0%ED%9A%8C-%EC%8B%9C-JpaSystemException-%EB%B0%9C%EC%83%9D-%ED%95%B4%EA%B2%B0)
 - [Kubernetes 유용한 명령어 정리](https://velog.io/@jelog_131/Kubernetes-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [TIL - Kubernetes 스터디 내용 정리 2](https://velog.io/@jelog_131/TIL-Kubernetes-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-2)
 - [TIL - Kubernetes 스터디 내용 정리 1](https://velog.io/@jelog_131/TIL-Kubernetes-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-1)
-- [낙관적 락&lpar;Optimistic Lock&rpar; vs 비관적 락&lpar;Pessimistic Lock&rpar; 비교](https://velog.io/@jelog_131/%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BDOptimistic-Lock-vs-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BDPessimistic-Lock-%EB%B9%84%EA%B5%90)
 <!-- BLOG-POST-LIST:END -->
