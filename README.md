@@ -26,8 +26,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini PC에 Ubuntu를 설치하고 Railway에서 마이그레이션해보며 깨달은 점](https://velog.io/@jelog_131/Mini-PC%EC%97%90-Ubuntu%EB%A5%BC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-Railway%EC%97%90%EC%84%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%B4%EB%B3%B4%EB%A9%B0-%EA%B9%A8%EB%8B%AC%EC%9D%80-%EC%A0%90)
 - [TIL - 서브넷과 서브넷 마스크 완벽 정리](https://velog.io/@jelog_131/TIL-%EC%84%9C%EB%B8%8C%EB%84%B7%EA%B3%BC-%EC%84%9C%EB%B8%8C%EB%84%B7-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC)
 - [Docker Compose 기반 Spring Boot 백엔드, Railway 배포 완전 정복 &lpar;Redis/MongoDB/MySQL 포함&rpar;](https://velog.io/@jelog_131/Docker-Compose-%EA%B8%B0%EB%B0%98-Spring-Boot-%EB%B0%B1%EC%97%94%EB%93%9C-Railway-%EB%B0%B0%ED%8F%AC-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-RedisMongoDBMySQL-%ED%8F%AC%ED%95%A8)
 - [Ninety 프로젝트에서 게임 리소스 관리 방식 고민하기](https://velog.io/@jelog_131/Ninety-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%8C%EC%9E%84-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%8B%9D-%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B8%B0)
-- [JPA JOIN FETCH 와 Optional 조합 시 발생하는 NonUniqueResult 오류 해결](https://velog.io/@jelog_131/JPA-JOIN-FETCH-%EC%99%80-Optional-%EC%A1%B0%ED%95%A9-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-NonUniqueResult-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0)
 <!-- BLOG-POST-LIST:END -->
